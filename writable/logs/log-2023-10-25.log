@@ -1,0 +1,133 @@
+INFO - 2023-10-25 06:20:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-10-25 09:41:50 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:43:28 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:43:50 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:43:50 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:44:37 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:44:38 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:44:38 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:44:39 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:44:39 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:45:11 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:45:11 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-25 09:46:43 --> Undefined variable $titleCategory
+in APPPATH\Views\news\index.php on line 128.
+ 1 APPPATH\Views\news\index.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $titleCategory', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php', 128)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\news\\index.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('news/index', [], true)
+ 5 APPPATH\Controllers\News.php(20): view('news/index')
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\News->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\News))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

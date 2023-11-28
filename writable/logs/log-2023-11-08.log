@@ -1,0 +1,42 @@
+CRITICAL - 2023-11-08 06:21:26 --> Undefined variable $category
+in APPPATH\Views\admin\products\products.php on line 36.
+ 1 APPPATH\Views\admin\products\products.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\xampp\\htdocs\\codeigniter-main\\app\\Views\\admin\\products\\products.php', 36)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter-main\\app\\Views\\admin\\products\\products.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/products/products', [], true)
+ 5 APPPATH\Controllers\Admin.php(23): view('admin/products/products', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 06:23:09 --> Undefined variable $category
+in APPPATH\Views\admin\products\products.php on line 36.
+ 1 APPPATH\Views\admin\products\products.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\xampp\\htdocs\\codeigniter-main\\app\\Views\\admin\\products\\products.php', 36)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter-main\\app\\Views\\admin\\products\\products.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/products/products', [], true)
+ 5 APPPATH\Controllers\Admin.php(23): view('admin/products/products', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 06:45:20 --> syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+in APPPATH\Views\admin\products\products.php on line 51.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/products/products', [], true)
+ 3 APPPATH\Controllers\Admin.php(24): view('admin/products/products', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-08 06:50:32 --> Undefined variable $category
+in APPPATH\Views\admin\products\products.php on line 37.
+ 1 APPPATH\Views\admin\products\products.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $category', 'C:\\xampp\\htdocs\\codeigniter-main\\app\\Views\\admin\\products\\products.php', 37)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\codeigniter-main\\app\\Views\\admin\\products\\products.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/products/products', [], true)
+ 5 APPPATH\Controllers\Admin.php(24): view('admin/products/products', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Admin->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
